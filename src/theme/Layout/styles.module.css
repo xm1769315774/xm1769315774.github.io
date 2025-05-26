@@ -1,0 +1,5 @@
+.mainContent {
+  min-height: calc(100vh - var(--ifm-navbar-height) - var(--ifm-footer-height));
+  display: flex;
+  flex-direction: column;
+}
